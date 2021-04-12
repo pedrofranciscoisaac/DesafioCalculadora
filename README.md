@@ -1,16 +1,19 @@
 # calculadora
 
-A new Flutter project.
+Projeto de uma calculadora em flutter para a aula de Programação para dispositivos móveis.
 
-## Getting Started
+## Aluno 
 
-This project is a starting point for a Flutter application.
+- Pedro Francisco Isaac
 
-A few resources to get you started if this is your first Flutter project:
+### Desafios
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[x] Trocar a fonte do resultado (tutorial e fonte);
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[x] Criar um icone para o aplicativo (plugin flutter_launcher_icons, tutorial, gerador de icone);
+
+[x] Criar uma tela de splash (tutorial);
+
+[x] Adicionar um botão na AppBar para compartilhar o aplicativo (IconButton, plugin share);
+
+[x] Criar um Text em cima do resultado para exibir todas as operações realizadas (10 + 30 + 20 x 10);
